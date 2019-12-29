@@ -1,0 +1,8 @@
+Pen	50	25.0	
+Marker	20	10.0
+Envelope	10	5.0
+Printer Paper	15	5.0
+Ink	5	2.0
+Mouse Pad	20	10.0
+LAN Cable	20	9.0
+Projector	6	3.0
